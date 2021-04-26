@@ -1,0 +1,26 @@
+{
+  "name": "typescriptudemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "prettier": "2.2.1",
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatiaR/TypeScriptUdemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatiaR/TypeScriptUdemy/issues"
+  },
+  "homepage": "https://github.com/KatiaR/TypeScriptUdemy#readme"
+}
